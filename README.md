@@ -23,7 +23,8 @@ src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-th
 <a href="https://www.oracle.com/br/database/technologies/appdev/plsql.html" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black" width="100" height="30" alt="PL/SQL" /></a>
 <a href="https://ubuntu.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" width="100" height="30" alt="Ubuntu" /></a>
 <a href="https://www.microsoft.com/pt-br/windows?r=1" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" width="100" height="30" alt="C" /></a>
-<a href="https://www.java.com/pt-BR/" target="_blank" rel="noreferrer"><img src="	https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" width="100" height="30" alt="Rust" /></a>
+<a href="https://www.java.com/pt-BR/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" width="100" height="30" alt="Rust" /></a>
+ 
 
 
 ### Socials
