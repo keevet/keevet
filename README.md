@@ -16,7 +16,6 @@ I'm also a student at [Estácio de Sá University](https://estacio.br/inscricao?
 <a href="https://www.github.com/peguimasid" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
 
-### Skills
 
 <p align="left">
 <a href="https://www.oracle.com/br/database/technologies/appdev/plsql.html" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black" width="100" height="30" alt="PL/SQL" /></a>
@@ -26,8 +25,6 @@ src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-th
  
 
 
-### Socials
-
 <p align="left">
  <a href="https://github.com/keevet/keevet" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
- <a href="https://www.linkedin.com/in/kevinsv/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/13367336/guilhermo-masid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/UCTF5MfUsa-9dFCOHFTA9xzw" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+ <a href="https://www.linkedin.com/in/kevinsv/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
