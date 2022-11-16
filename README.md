@@ -5,7 +5,8 @@ Development Student
 -----------------------------
 
 
-I am also a student at [42 | Rio](https://42.rio/), a Software Engineering school that have [47 campus in 26 countries](https://www.42network.org/42-schools/).
+
+I'm also a student at [Estácio de Sá University](https://estacio.br/inscricao?gclid=Cj0KCQiAsdKbBhDHARIsANJ6-jdkNc7Y2bSEHcLsOPwoUGrJ6Lnx4cOZ-5_RiKbnUZQXG0OvY2CE8qUaAi88EALw_wcB&gclsrc=aw.ds), and I'm studying Computer Science (4th semester of college)
 
 * 🌍  I'm based in Recife, Brazil
 * ✉️  Contact: [kevin.vieira22@outlook.com](mailto:kevin.vieira22@outlook.com)
