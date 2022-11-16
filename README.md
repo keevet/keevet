@@ -12,7 +12,8 @@ I'm also a student at [Estácio de Sá University](https://estacio.br/inscricao?
 * ✉️  Contact: [kevin.vieira22@outlook.com](mailto:kevin.vieira22@outlook.com)
 * 🤝  I'm open to collaborating on projects
 * 🎵  I love music and everything about 
-
+<p>
+<p>
 
 
 <p align="left">
