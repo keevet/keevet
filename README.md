@@ -6,7 +6,7 @@ Development Student
 
 
 
-I'm also a student at [Estácio de Sá University](https://estacio.br/inscricao?gclid=Cj0KCQiAsdKbBhDHARIsANJ6-jdkNc7Y2bSEHcLsOPwoUGrJ6Lnx4cOZ-5_RiKbnUZQXG0OvY2CE8qUaAi88EALw_wcB&gclsrc=aw.ds), and I'm studying Computer Science (5th semester of college)
+I'm also a student at [Estácio de Sá University](https://estacio.br/inscricao?gclid=Cj0KCQiAsdKbBhDHARIsANJ6-jdkNc7Y2bSEHcLsOPwoUGrJ6Lnx4cOZ-5_RiKbnUZQXG0OvY2CE8qUaAi88EALw_wcB&gclsrc=aw.ds), and I'm studying Computer Science (7th semester of college)
 
 * 🌍  I'm based in Recife, Brazil
 * ✉️  Contact: [kevin.vieira22@outlook.com](mailto:kevin.vieira22@outlook.com)
